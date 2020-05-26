@@ -21,3 +21,26 @@ j → E | w → v | J → D | W → l
 k → T | x → J | K → i | X → r
 l → o | y → I | L → C | Y → a
 m → M | z → H | M → N | Z → s
+
+### Sample texts
+
+#### Lord's Prayer
+
+nUX jgcQWX, vQYmQ gXc YZ QWgRWZ,
+QgooPvWe VW cQI ZgMW;
+cQI TYZhePM mPMW;
+cQI vYoo VW ePZW,
+YZ WgXcQ gf Yc Yf YZ QWgRWZ.
+FYRW Uf cQYf egI PUX egYoI VXWge.
+SZe zPXhYRW Uf PUX cXWfOgffWf,
+gf vW zPXhYRW cQWM cQgc cXWfOgff ghgYZfc Uf.
+SZe oWge Uf ZPc YZcP cWMOcgcYPZ,
+VUc eWoYRWX Uf zXPM WRYo.
+jPX cQYZW Yf cQW TYZhePM,
+cQW OPvWX, gZe cQW hoPXI,
+jPX WRWX gZe WRWX.
+SMWZ.
+
+#### UDHR
+
+Soo QUMgZ VWYZhf gXW VPXZ zXWW gZe WtUgo YZ eYhZYcI gZe XYhQcf. LQWI gXW WZePvWe vYcQ XWgfPZ gZe mPZfmYWZmW gZe fQPUoe gmc cPvgXef PZW gZPcQWX YZ g fOYXYc Pz VXPcQWXQPPe.
