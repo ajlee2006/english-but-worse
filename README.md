@@ -24,6 +24,8 @@ m → M | z → H | M → N | Z → s
 
 ### Sample texts
 
+[Converter](https://repl.it/@AJLee/convert-english-to-worse)
+
 #### Lord's Prayer
 
 nUX jgcQWX, vQYmQ gXc YZ QWgRWZ,  
