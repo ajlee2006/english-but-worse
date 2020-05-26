@@ -26,19 +26,19 @@ m → M | z → H | M → N | Z → s
 
 #### Lord's Prayer
 
-nUX jgcQWX, vQYmQ gXc YZ QWgRWZ,
-QgooPvWe VW cQI ZgMW;
-cQI TYZhePM mPMW;
-cQI vYoo VW ePZW,
-YZ WgXcQ gf Yc Yf YZ QWgRWZ.
-FYRW Uf cQYf egI PUX egYoI VXWge.
-SZe zPXhYRW Uf PUX cXWfOgffWf,
-gf vW zPXhYRW cQWM cQgc cXWfOgff ghgYZfc Uf.
-SZe oWge Uf ZPc YZcP cWMOcgcYPZ,
-VUc eWoYRWX Uf zXPM WRYo.
-jPX cQYZW Yf cQW TYZhePM,
-cQW OPvWX, gZe cQW hoPXI,
-jPX WRWX gZe WRWX.
+nUX jgcQWX, vQYmQ gXc YZ QWgRWZ,  
+QgooPvWe VW cQI ZgMW;  
+cQI TYZhePM mPMW;  
+cQI vYoo VW ePZW,  
+YZ WgXcQ gf Yc Yf YZ QWgRWZ.  
+FYRW Uf cQYf egI PUX egYoI VXWge.  
+SZe zPXhYRW Uf PUX cXWfOgffWf,  
+gf vW zPXhYRW cQWM cQgc cXWfOgff ghgYZfc Uf.  
+SZe oWge Uf ZPc YZcP cWMOcgcYPZ,  
+VUc eWoYRWX Uf zXPM WRYo.  
+jPX cQYZW Yf cQW TYZhePM,  
+cQW OPvWX, gZe cQW hoPXI,  
+jPX WRWX gZe WRWX.  
 SMWZ.
 
 #### UDHR
