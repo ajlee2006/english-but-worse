@@ -4,7 +4,7 @@ Welcome! We're trying to make English worse, one step at a time. This would hope
 Any suggestions? Submit an issue.
 
 ## v0.1.0 (current)
-A simple substitution cipher. Phonetics are still the same as normal English.
+A simple substitution cipher, where case matters. Phonetics are still the same as normal English.
 
 from → to | from → to | from → to | from → to
 :---: | :---: | :---: | :---:
