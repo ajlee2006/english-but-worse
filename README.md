@@ -7,7 +7,7 @@ Any suggestions? Submit an issue.
 A simple substitution cipher.
 
 from → to | from → to | from → to | from → to
---- | --- | --- | ---
+:---: | :---: | :---: | :---:
 a → g | n → Z | A → S | N → d
 b → V | o → P | B → q | O → n
 c → m | p → O | C → K | P → w
