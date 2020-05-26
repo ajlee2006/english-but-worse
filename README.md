@@ -46,5 +46,3 @@ SMWZ.
 #### UDHR
 
 Soo QUMgZ VWYZhf gXW VPXZ zXWW gZe WtUgo YZ eYhZYcI gZe XYhQcf. LQWI gXW WZePvWe vYcQ XWgfPZ gZe mPZfmYWZmW gZe fQPUoe gmc cPvgXef PZW gZPcQWX YZ g fOYXYc Pz VXPcQWXQPPe.
-
-ye i can edit now
