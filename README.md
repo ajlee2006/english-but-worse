@@ -1,10 +1,13 @@
 # English, but worse.
-Welcome! We're trying to make English worse, one step at a time. This would hopefully become a fully working joke (not-)language in the future.
+Welcome! We're trying to make English worse, one step at a time. This would hopefully become a fully working joke (not-)language in the future. View all past iterations under [Releases](https://github.com/ajlee2006/english-but-worse/releases).
 
-Any suggestions? Submit an issue!
+Any suggestions to make this worse? [Submit an issue](https://github.com/ajlee2006/english-but-worse/issues/new)!
 
-## v0.1.0 (current)
-A simple substitution cipher, where letter case matters. Phonetics are still the same as normal English.
+## Current version (v0.1.1)
+
+### Orthography
+
+A simple substitution cipher, where letter case matters.
 
 from → to | from → to | from → to | from → to
 :---: | :---: | :---: | :---:
@@ -21,6 +24,14 @@ j → E | w → v | J → D | W → l
 k → T | x → J | K → i | X → r
 l → o | y → I | L → C | Y → a
 m → M | z → H | M → N | Z → s
+
+### Phonology
+
+All unvoiced and voiced consonant pairs swap. If a consonant has no corresponding anti-voiced consonant, it is left alone. Similarly, all rounded and unrounded vowels swap, and are left alone if no pair exists.
+
+e.g. /ɡədˈbaɪ/ becomes /kətˈpɶʏ/
+/ˌfoʊnəˈtɪʃən/ becomes /ˌvɤʊnəˈdʏʒən/
+/ɹiˈækt/ becomes /ɹyˈægd/
 
 ### Sample texts
 
