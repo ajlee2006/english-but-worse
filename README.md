@@ -3,13 +3,13 @@ Welcome! We're trying to make English worse, one step at a time. This would hope
 
 Any suggestions to make this worse? [Submit an issue](https://github.com/ajlee2006/english-but-worse/issues/new)!
 
-[Run the ortho converter in repl.it](https://repl.it/@AJLee/english-but-worse#README.md)
-
 ## Current version (v0.1.1)
 
 ### Orthography
 
 A simple substitution cipher, where letter case matters.
+
+[Run the orthography converter in repl.it](https://repl.it/@AJLee/english-but-worse#README.md)
 
 from → to | from → to | from → to | from → to
 :---: | :---: | :---: | :---:
