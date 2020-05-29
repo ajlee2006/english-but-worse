@@ -29,10 +29,10 @@ m → M | z → H | M → N | Z → s
 
 All unvoiced and voiced consonant pairs swap. If a consonant has no corresponding anti-voiced consonant, it is left alone. Similarly, all rounded and unrounded vowels swap, and are left alone if no pair exists.
 
-e.g. /ɡədˈbaɪ/ becomes /kətˈpœʏ/  
-/ˌfoʊnəˈtɪʃən/ becomes /ˌvɤʊnəˈdʏʒən/  
-/ɹiˈækt/ becomes /ɹyˈægd/  
-/stɹɛŋkθs/ becomes /zdɹœŋgðz/
+e.g. /ɡədˈbaɪ/ becomes /kətˈpœʏ/ (hPPeVIW)  
+/ˌfoʊnəˈtɪʃən/ becomes /ˌvɤʊnəˈdʏʒən/ (OQPZWcYmYgZ)  
+/ɹiˈækt/ becomes /ɹyˈægd/ (XWgmc)  
+/stɹɛŋkθs/ becomes /zdɹœŋgðz/ (fcXWZhcQf)
 
 ### Sample texts
 
