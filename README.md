@@ -42,24 +42,24 @@ All words in a given sentence have to be said in reverse order.
 
 e.g. "I want to eat this cake, and enjoy my life." becomes "Life my enjoy and, cake this eat to want I."
 
-### Sample texts (not updated yet, still in v0.1.0)
+### Sample texts
 
 #### Lord's Prayer
 
-QWgRWZ YZ Yf Yc gf WgXcQ YZ,
-ePZW VW vYoo cQI;
-mPMW TYZhePM cQI;
-ZgMW cQI VW QgooPvWe,
-QWgRWZ YZ gXc vQYmQ, jgcQWX nUX.
-VXWge egYoI PUX egI cQYf Uf FYRW.
-Uf ghgYZfc cXWfOgff cQgc cQWM zPXhYRW vW gf,
-cXWfOgffWf PUX Uf zPXhYRW SZe.
-WRYo zXPM Uf eWoYRWX VUc,
-cWMOcgcYPZ YZcP ZPc Uf oWge SZe.
-WRWX gZe WRWX jPX,
-hoPXI cQW gZe, OPvWX cQW,
-TYZhePM cQW Yf cQYZW jPX.
-SMWZ.
+QWgRWZ YZ Yf Yc gf WgXcQ YZ,  
+ePZW VW vYoo cQI;  
+mPMW TYZhePM cQI;  
+ZgMW cQI VW QgooPvWe,  
+QWgRWZ YZ gXc vQYmQ, jgcQWX nUX.  
+VXWge egYoI PUX egI cQYf Uf FYRW.  
+Uf ghgYZfc cXWfOgff cQgc cQWM zPXhYRW vW gf,  
+cXWfOgffWf PUX Uf zPXhYRW SZe.  
+WRYo zXPM Uf eWoYRWX VUc,  
+cWMOcgcYPZ YZcP ZPc Uf oWge SZe.  
+WRWX gZe WRWX jPX,  
+hoPXI cQW gZe, OPvWX cQW,  
+TYZhePM cQW Yf cQYZW jPX.  
+SMWZ.  
 
 #### UDHR
 
