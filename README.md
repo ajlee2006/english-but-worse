@@ -46,19 +46,19 @@ e.g. "I want to eat this cake, and enjoy my life." becomes "Life my enjoy and, c
 
 #### Lord's Prayer
 
-nUX jgcQWX, vQYmQ gXc YZ QWgRWZ,  
-QgooPvWe VW cQI ZgMW;  
-cQI TYZhePM mPMW;  
-cQI vYoo VW ePZW,  
-YZ WgXcQ gf Yc Yf YZ QWgRWZ.  
-FYRW Uf cQYf egI PUX egYoI VXWge.  
-SZe zPXhYRW Uf PUX cXWfOgffWf,  
-gf vW zPXhYRW cQWM cQgc cXWfOgff ghgYZfc Uf.  
-SZe oWge Uf ZPc YZcP cWMOcgcYPZ,  
-VUc eWoYRWX Uf zXPM WRYo.  
-jPX cQYZW Yf cQW TYZhePM,  
-cQW OPvWX, gZe cQW hoPXI,  
-jPX WRWX gZe WRWX.  
+QWgRWZ YZ Yf Yc gf WgXcQ YZ,
+ePZW VW vYoo cQI;
+mPMW TYZhePM cQI;
+ZgMW cQI VW QgooPvWe,
+QWgRWZ YZ gXc vQYmQ, jgcQWX nUX.
+VXWge egYoI PUX egI cQYf Uf FYRW.
+Uf ghgYZfc cXWfOgff cQgc cQWM zPXhYRW vW gf,
+cXWfOgffWf PUX Uf zPXhYRW SZe.
+WRYo zXPM Uf eWoYRWX VUc,
+cWMOcgcYPZ YZcP ZPc Uf oWge SZe.
+WRWX gZe WRWX jPX,
+hoPXI cQW gZe, OPvWX cQW,
+TYZhePM cQW Yf cQYZW jPX.
 SMWZ.
 
 #### UDHR
