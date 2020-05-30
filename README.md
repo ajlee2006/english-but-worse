@@ -63,4 +63,4 @@ SMWZ.
 
 #### UDHR
 
-Soo QUMgZ VWYZhf gXW VPXZ zXWW gZe WtUgo YZ eYhZYcI gZe XYhQcf. LQWI gXW WZePvWe vYcQ XWgfPZ gZe mPZfmYWZmW gZe fQPUoe gmc cPvgXef PZW gZPcQWX YZ g fOYXYc Pz VXPcQWXQPPe.
+XYhQcf gZe eYhZYcI YZ WtUgo gZe zXWW VPXZ gXW VWYZhf QUMgZ Soo. VXPcQWXQPPe Pz fOYXYc g YZ gZPcQWX PZW cPvgXef gmc fQPUoe gZe mPZfmYWZmW gZe XWgfPZ vYcQ WZePvWe gXw LQWI.
