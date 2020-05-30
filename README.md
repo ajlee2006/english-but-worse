@@ -42,7 +42,7 @@ All words in a given sentence have to be said in reverse order.
 
 e.g. "I want to eat this cake, and enjoy my life." becomes "Life my enjoy and, cake this eat to want I."
 
-### Sample texts
+### Sample texts (not updated yet, still in v0.1.0)
 
 #### Lord's Prayer
 
