@@ -36,6 +36,12 @@ e.g. /ɡədˈbaɪ/ becomes /kətˈpɶʏ/ (hPPeVIW)
 /ɹiˈækt/ becomes /ɹyˈægd/ (XWgmc)  
 /stɹɛŋkθs/ becomes /zdɹœŋgðz/ (fcXWZhcQf)
 
+### Grammar
+
+All words in a given sentence have to be said in reverse order.
+
+e.g. "I want to eat this cake, and enjoy my life." becomes "Life my enjoy and, cake this eat to want I."
+
 ### Sample texts
 
 #### Lord's Prayer
