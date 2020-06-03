@@ -46,19 +46,19 @@ e.g. "I want to eat this cake, and enjoy my life." becomes "Life my enjoy and, c
 
 #### Lord's Prayer
 
-QWgRWZ YZ Yf Yc gf WgXcQ YZ,  
+BWgRWZ YZ Yf Yc gf WgXcQ YZ,  
 ePZW VW vYoo cQI;  
 mPMW TYZhePM cQI;  
 ZgMW cQI VW QgooPvWe,  
-QWgRWZ YZ gXc vQYmQ, jgcQWX nUX.  
-VXWge egYoI PUX egI cQYf Uf FYRW.  
-Uf ghgYZfc cXWfOgff cQgc cQWM zPXhYRW vW gf,  
-cXWfOgffWf PUX Uf zPXhYRW SZe.  
-WRYo zXPM Uf eWoYRWX VUc,  
-cWMOcgcYPZ YZcP ZPc Uf oWge SZe.  
-WRWX gZe WRWX jPX,  
+QWgRWZ YZ gXc vQYmQ, jgcQWX PUX.  
+qXWge egYoI PUX egI cQYf Uf hYRW.  
+yf ghgYZfc cXWfOgff cQgc cQWM zPXhYRW vW gf,  
+cXWfOgffWf PUX Uf zPXhYRW gZe.  
+ARYo zXPM Uf eWoYRWX VUc,  
+cWMOcgcYPZ YZcP ZPc Uf oWge gZe.  
+ARWX gZe WRWX jPX,  
 hoPXI cQW gZe, OPvWX cQW,  
-TYZhePM cQW Yf cQYZW jPX.  
+TYZhePM cQW Yf cQYZW zPX.  
 SMWZ.  
 
 ˈɦœfən ʏn əs ʏd əs ɞrð ʏn,  
@@ -78,6 +78,6 @@ dœmˈdøʏʒən ˈʏndə nɒd əz lyt ənt.
 
 #### UDHR
 
-XYhQcf gZe eYhZYcI YZ WtUgo gZe zXWW VPXZ gXW VWYZhf QUMgZ Soo. VXPcQWXQPPe Pz fOYXYc g YZ gZPcQWX PZW cPvgXef gmc fQPUoe gZe mPZfmYWZmW gZe XWgfPZ vYcQ WZePvWe gXw LQWI.
+xYhQcf gZe eYhZYcI YZ WtUgo gZe zXWW VPXZ gXW VWYZhf QUMgZ goo. qXPcQWXQPPe Pz fOYXYc g YZ gZPcQWX PZW cPvgXef gmc fQPUoe gZe mPZfmYWZmW gZe XWgfPZ vYcQ WZePvWe gXw cQWI.
 
 rɶʏdz ənt ˈtʏknədy ʏn ˈygwəl ənt vry pʌrn ər ˈpyʏŋs ˈɦjɯmən ʌl. ˈprɔθərˌɦʊt əf ˈzbʏrəd ə ʏn əˈnɔθər wɔn dəˈwʌrts ægd ʒət ənt ˈgɒnʒənz ənt ˈrysən wʏθ œnˈtɶʊt ər θøʏ.
