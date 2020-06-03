@@ -19,6 +19,16 @@ def convPhono(s):
     t = ['b','d','ɖ','ɟ','g','ɢ','β','v','ð','z','ʒ','ʐ','ʝ','ɣ','ʁ','ʕ','ɦ','ɮ','y','ʉ','u','ʏ','ø','ɵ','o','œ','ɞ','ɔ','ɶ','ɒ','p','t','ʈ','c','k','q','ɸ','f','θ','s','ʃ','ʂ','ç','x','χ','ħ','h','ɬ','i','ɨ','ɯ','ɪ','e','ɘ','ɤ','ɛ','ɜ','ʌ','a','ɑ']
     return(conv(s,f,t))
 
+def reverse(s):
+    import re
+    sentl = [i.strip() for i in s.split('.')]
+    lis = []
+    for i in sentl:
+        l = re.findall(r"\w+|[^\w\s]", i, re.UNICODE)
+        l.reverse()
+        lis.append(' '.join(l))
+    return '. '.join(lis)
+
 # s = 'Our Father, which art in heaven,  \nhallowed be thy name;  \nthy kingdom come;  \nthy will be done,  \nin earth as it is in heaven.  \nGive us this day our daily bread.  \nAnd forgive us our trespasses,  \nas we forgive them that trespass against us.  \nAnd lead us not into temptation,  \nbut deliver us from evil.  \nFor thine is the kingdom,  \nthe power, and the glory,  \nFor ever and ever.  \nAmen.'
 # s = 'ˈaʊər ˈfɑðər, wɪʧ ɑrt ɪn ˈhɛvən,  \nˈhæloʊd bi ðaɪ neɪm;  \nðaɪ ˈkɪŋdəm kʌm;  \nðaɪ wɪl bi dʌn,  \nɪn ɜrθ əz ɪt əz ɪn ˈhɛvən.  \ngɪv əs ðɪs deɪ ˈaʊər ˈdeɪli brɛd.  \nənd fərˈgɪv əs ˈaʊər ˈtrɛˌspæsɪz,  \nəz wi fərˈgɪv ðəm ðət ˈtrɛˌspæs əˈgɛnst ʌs.  \nənd lid əs nɑt ˈɪntə tɛmˈteɪʃən,  \nbət dɪˈlɪvər əs frəm ˈivəl.  \nfər ðaɪn əz ðə ˈkɪŋdəm,  \nðə ˈpaʊər, ənd ðə ˈglɔri,  \nfər ˈɛvər ənd ˈɛvər.  \neɪˈmɛn.'
 # s = 'All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.'
@@ -27,9 +37,17 @@ oorp = input('Convert orthography or phonology? (o/p) [o] ')
 ortho = True
 if oorp == 'p':
     ortho = False
+asd = input('Enable or disable sentence reversal (beta)? (e/d) [d] ')
+ddd = False
+if asd == 'e':
+    ddd = True
 if ortho:
     s = input('Enter English: ')
+    if ddd:
+      s = reverse(s)
     print(convOrtho(s))
 else:
-    s = input('Enter English IPA: ')
+    s = input('Enter IPA: ')
+    if ddd:
+      s = reverse(s)
     print(convPhono(s))
