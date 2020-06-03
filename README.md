@@ -79,3 +79,5 @@ dœmˈdøʏʒən ˈʏndə nɒd əz lyt ənt.
 #### UDHR
 
 XYhQcf gZe eYhZYcI YZ WtUgo gZe zXWW VPXZ gXW VWYZhf QUMgZ Soo. VXPcQWXQPPe Pz fOYXYc g YZ gZPcQWX PZW cPvgXef gmc fQPUoe gZe mPZfmYWZmW gZe XWgfPZ vYcQ WZePvWe gXw LQWI.
+
+rɶʏdz ənt ˈtʏknədy ʏn ˈygwəl ənt vry pʌrn ər ˈpyʏŋs ˈɦjɯmən ʌl. ˈprɔθərˌɦʊt əf ˈzbʏrəd ə ʏn əˈnɔθər wɔn dəˈwʌrts ægd ʒət ənt ˈgɒnʒənz ənt ˈrysən wʏθ œnˈtɶʊt ər θøʏ.
