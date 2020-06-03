@@ -29,18 +29,19 @@ def reverse(s):
         lis.append(' '.join(l))
     return '. '.join(lis)
 
+def input(q, o, t):
+    inp = input(q + ' (' + o + '/' + t + ') [' + o + '] ')
+    if inp == t:
+        return False
+    return True
+
+
 # s = 'Our Father, which art in heaven,  \nhallowed be thy name;  \nthy kingdom come;  \nthy will be done,  \nin earth as it is in heaven.  \nGive us this day our daily bread.  \nAnd forgive us our trespasses,  \nas we forgive them that trespass against us.  \nAnd lead us not into temptation,  \nbut deliver us from evil.  \nFor thine is the kingdom,  \nthe power, and the glory,  \nFor ever and ever.  \nAmen.'
 # s = 'ˈaʊər ˈfɑðər, wɪʧ ɑrt ɪn ˈhɛvən,  \nˈhæloʊd bi ðaɪ neɪm;  \nðaɪ ˈkɪŋdəm kʌm;  \nðaɪ wɪl bi dʌn,  \nɪn ɜrθ əz ɪt əz ɪn ˈhɛvən.  \ngɪv əs ðɪs deɪ ˈaʊər ˈdeɪli brɛd.  \nənd fərˈgɪv əs ˈaʊər ˈtrɛˌspæsɪz,  \nəz wi fərˈgɪv ðəm ðət ˈtrɛˌspæs əˈgɛnst ʌs.  \nənd lid əs nɑt ˈɪntə tɛmˈteɪʃən,  \nbət dɪˈlɪvər əs frəm ˈivəl.  \nfər ðaɪn əz ðə ˈkɪŋdəm,  \nðə ˈpaʊər, ənd ðə ˈglɔri,  \nfər ˈɛvər ənd ˈɛvər.  \neɪˈmɛn.'
 # s = 'All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.'
 # s = 'ɔl ˈhjumən ˈbiɪŋz ər bɔrn fri ənd ˈikwəl ɪn ˈdɪgnəti ənd raɪts. ðeɪ ər ɛnˈdaʊd wɪð ˈrizən ənd ˈkɑnʃəns ənd ʃəd ækt təˈwɔrdz wʌn əˈnʌðər ɪn ə ˈspɪrət əv ˈbrʌðərˌhʊd.'
-oorp = input('Convert orthography or phonology? (o/p) [o] ')
-ortho = True
-if oorp == 'p':
-    ortho = False
-asd = input('Enable or disable sentence reversal (beta)? (e/d) [d] ')
-ddd = False
-if asd == 'e':
-    ddd = True
+ortho = input('Convert orthography or phonology?','o','p')
+ddd = input('Disable or enable sentence reversal (beta)?','d','e')
 if ortho:
     s = input('Enter English: ')
     if ddd:
