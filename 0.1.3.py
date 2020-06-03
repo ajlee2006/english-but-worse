@@ -29,7 +29,7 @@ def reverse(s):
         lis.append(' '.join(l))
     return '. '.join(lis)
 
-def input(q, o, t):
+def inputopt(q, o, t):
     inp = input(q + ' (' + o + '/' + t + ') [' + o + '] ')
     if inp == t:
         return False
@@ -40,8 +40,8 @@ def input(q, o, t):
 # s = 'ˈaʊər ˈfɑðər, wɪʧ ɑrt ɪn ˈhɛvən,  \nˈhæloʊd bi ðaɪ neɪm;  \nðaɪ ˈkɪŋdəm kʌm;  \nðaɪ wɪl bi dʌn,  \nɪn ɜrθ əz ɪt əz ɪn ˈhɛvən.  \ngɪv əs ðɪs deɪ ˈaʊər ˈdeɪli brɛd.  \nənd fərˈgɪv əs ˈaʊər ˈtrɛˌspæsɪz,  \nəz wi fərˈgɪv ðəm ðət ˈtrɛˌspæs əˈgɛnst ʌs.  \nənd lid əs nɑt ˈɪntə tɛmˈteɪʃən,  \nbət dɪˈlɪvər əs frəm ˈivəl.  \nfər ðaɪn əz ðə ˈkɪŋdəm,  \nðə ˈpaʊər, ənd ðə ˈglɔri,  \nfər ˈɛvər ənd ˈɛvər.  \neɪˈmɛn.'
 # s = 'All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.'
 # s = 'ɔl ˈhjumən ˈbiɪŋz ər bɔrn fri ənd ˈikwəl ɪn ˈdɪgnəti ənd raɪts. ðeɪ ər ɛnˈdaʊd wɪð ˈrizən ənd ˈkɑnʃəns ənd ʃəd ækt təˈwɔrdz wʌn əˈnʌðər ɪn ə ˈspɪrət əv ˈbrʌðərˌhʊd.'
-ortho = input('Convert orthography or phonology?','o','p')
-ddd = input('Disable or enable sentence reversal (beta)?','d','e')
+ortho = inputopt('Convert orthography or phonology?','o','p')
+ddd = inputopt('Disable or enable sentence reversal (beta)?','d','e')
 if ortho:
     s = input('Enter English: ')
     if ddd:
