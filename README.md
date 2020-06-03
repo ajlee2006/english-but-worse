@@ -5,7 +5,7 @@ Any suggestions to make this worse? [Submit an issue](https://github.com/ajlee20
 
 [Run the converter in repl.it](https://repl.it/@AJLee/english-but-worse)
 
-## Current version (v0.1.2)
+## Current version (v0.1.3)
 
 ### Orthography
 
