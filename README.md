@@ -27,6 +27,8 @@ k → T | x → J | K → i | X → r
 l → o | y → I | L → C | Y → a
 m → M | z → H | M → N | Z → s
 
+Also, V, e, and h, as well as q, k, and F, are [interchangable](https://badconlangingideas.tumblr.com/post/156908127117/490). (The converter will keep them as is.)
+
 ### Phonology
 
 All unvoiced and voiced consonant pairs swap. If a consonant has no corresponding anti-voiced consonant, it is left alone. Similarly, all rounded and unrounded vowels swap, and are left alone if no pair exists.
