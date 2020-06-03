@@ -83,3 +83,8 @@ dœmˈdøʏʒən ˈʏndə nɒd əz lyt ənt.
 xYhQcf gZe eYhZYcI YZ WtUgo gZe zXWW VPXZ gXW VWYZhf QUMgZ goo. qXPcQWXQPPe Pz fOYXYc g YZ gZPcQWX PZW cPvgXef gmc fQPUoe gZe mPZfmYWZmW gZe XWgfPZ vYcQ WZePvWe gXw cQWI.
 
 rɶʏdz ənt ˈtʏknədy ʏn ˈygwəl ənt vry pʌrn ər ˈpyʏŋs ˈɦjɯmən ʌl. ˈprɔθərˌɦʊt əf ˈzbʏrəd ə ʏn əˈnɔθər wɔn dəˈwʌrts ægd ʒət ənt ˈgɒnʒənz ənt ˈrysən wʏθ œnˈtɶʊt ər θøʏ.
+
+  
+  
+
+![flagcounter](https://s01.flagcounter.com/count2/Ya4c/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_20/viewers_0/labels_0/pageviews_0/flags_0/percent_0/)
