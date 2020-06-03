@@ -61,6 +61,21 @@ hoPXI cQW gZe, OPvWX cQW,
 TYZhePM cQW Yf cQYZW jPX.  
 SMWZ.  
 
+ˈɦœfən ʏn əs ʏd əs ɞrð ʏn,  
+tɔn py wʏl θɶʏ;  
+gɔm ˈgʏŋtəm θɶʏ;  
+nøʏm θɶʏ py ˈɦælɤʊt,  
+ˈɦœfən ʏn ɒrd wʏʧ, ˈvɒθər ˈɶʊər.  
+prœt ˈtøʏly ˈɶʊər tøʏ θʏz əz kʏf.  
+ɔz əˈkœnzd ˈdrœˌzbæz θəd θəm vərˈkʏf wy əs,  
+ˈdrœˌzbæzʏs ˈɶʊər əz vərˈkʏf ənt.  
+ˈyfəl vrəm əz tʏˈlʏfər pəd, 
+dœmˈdøʏʒən ˈʏndə nɒd əz lyt ənt.  
+ˈœfər ənt ˈœfər vər,  
+ˈklʌry θə ənt , ˈbɶʊər θə,  
+ˈgʏŋtəm θə əs θɶʏn vər.  
+øʏˈmœn.
+
 #### UDHR
 
 XYhQcf gZe eYhZYcI YZ WtUgo gZe zXWW VPXZ gXW VWYZhf QUMgZ Soo. VXPcQWXQPPe Pz fOYXYc g YZ gZPcQWX PZW cPvgXef gmc fQPUoe gZe mPZfmYWZmW gZe XWgfPZ vYcQ WZePvWe gXw LQWI.
