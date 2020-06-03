@@ -83,8 +83,7 @@ dœmˈdøʏʒən ˈʏndə nɒd əz lyt ənt.
 xYhQcf gZe eYhZYcI YZ WtUgo gZe zXWW VPXZ gXW VWYZhf QUMgZ goo. qXPcQWXQPPe Pz fOYXYc g YZ gZPcQWX PZW cPvgXef gmc fQPUoe gZe mPZfmYWZmW gZe XWgfPZ vYcQ WZePvWe gXw cQWI.
 
 rɶʏdz ənt ˈtʏknədy ʏn ˈygwəl ənt vry pʌrn ər ˈpyʏŋs ˈɦjɯmən ʌl. ˈprɔθərˌɦʊt əf ˈzbʏrəd ə ʏn əˈnɔθər wɔn dəˈwʌrts ægd ʒət ənt ˈgɒnʒənz ənt ˈrysən wʏθ œnˈtɶʊt ər θøʏ.
-
   
-  
-
-<div><iframe src="https://ajlee2006.github.io/" height="0" width="0"></iframe></div>
+<figure class="embed">
+  <iframe src="https://ajlee2006.github.io/" height="0" width="0"></iframe></div>
+ </figure>
