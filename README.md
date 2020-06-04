@@ -3,7 +3,7 @@ Welcome! We're trying to make English worse, one step at a time. This would hope
 
 Any suggestions to make this worse? [Submit an issue](https://github.com/ajlee2006/english-but-worse/issues/new)!
 
-[Run the converter in repl.it](https://repl.it/@AJLee/english-but-worse)
+[Run the converter in repl.it](https://repl.it/@AJLee/english-but-worse) (word order reversal is beta)
 
 ## Current version (v0.1.3)
 
